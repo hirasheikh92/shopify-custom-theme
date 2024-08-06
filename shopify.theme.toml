@@ -1,0 +1,9 @@
+
+
+
+[environments.env1]
+store =  "https://457b74-42.myshopify.com/"
+password  = "shptka_1970abd4d170895d515f5caf6a4d7124"
+live = true
+allow-live = true
+
